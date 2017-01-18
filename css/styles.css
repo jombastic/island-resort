@@ -1,3 +1,33 @@
 h1 {
-  color: blue;
+  color: #FFEBCD;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+h2 {
+  color: #87382F;
+  font-family: "Brush Script Std", "Brush Script MT", cursive;
+}
+
+p {
+  color: #FDB813;
+  font-family: FreeMono, monospace;
+}
+
+ul, ol {
+  text-align: left;
+  color: #FFFFFF;
+  line-height: 30px;
+}
+
+em {
+  color: #f48042;
+}
+
+strong {
+  color: #f442c5;
+}
+
+body {
+  background-color: #006994;
+  text-align: center;
 }
